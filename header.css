@@ -1,5 +1,6 @@
 .header-line {
     border-bottom: 1px solid var(--cinza);
+    background-color: white;
 }
 
 .cabecalho-pag {
