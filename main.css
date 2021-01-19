@@ -34,6 +34,7 @@ body {
     color: white;
     background-color: var(--azul);
     border-radius: 2px;
+    cursor: pointer;
 }
 
 .container-central {
